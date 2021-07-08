@@ -1,2 +1,9 @@
-train/
+target/
+.idea
+*.iml
+*.class
+*.jar
+*.dex
+*.wasm
+tags
 out/
